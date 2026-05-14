@@ -1,0 +1,12 @@
+# Data pengguna (jangan diupload ke GitHub)
+data_pengguna.json
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.env/
